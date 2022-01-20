@@ -15,6 +15,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 <h2>master</h2>
+<h2>master2</h2>
 
 <!-- 사용자 편의를 위해 검색창을 눌렀을 때 입력값이 지워지게 function처리 -->
 <script>
